@@ -19,3 +19,5 @@ github_username:  gaurang299
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
